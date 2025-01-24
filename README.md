@@ -5,5 +5,5 @@
 This is a screenshot of the final step I completed! 
 
 <h2>Description</h2>
-This lab was pretty simple in that we first did the somewhat blue team part of detecting things through an IDS and Firewall. First we detected intrusions using Snort. Then we detected suspicious network traffic using ZoneAlarm. Then we used HoneyBOT to detect malicious traffic. We then switched to the red team side and used evasion nmap techniques to bypass the windows firewall. We then bypassed a firewall using HTTP tunneling. We then bypassed antivirus using Metasploit templates. Then lastly we bypassed a firewall using Windows BITSAdmin
+This lab was pretty simple in that I first did the somewhat blue team part of detecting things through an IDS and Firewall. First, I detected intrusions using Snort. I also detected suspicious network traffic using ZoneAlarm. Then, I used HoneyBOT to detect malicious traffic. Switching over to the red team side, I then used evasion nmap techniques to bypass the windows firewall. Using HTTP tuneeling I then also bypassed a firewall. I then bypassed antivirus tools using Metasploit templates. Then lastly we bypassed yet another firewall using Windows BITSAdmin
 <br />
