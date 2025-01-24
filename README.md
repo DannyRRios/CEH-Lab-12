@@ -9,7 +9,9 @@ This lab was pretty simple in that I first did the somewhat blue team part of de
 <br />
 
 <h2>The setup for this lab encompassed the following:</h2>
+This was fully a virtual envrionemnt
 
-  <b> - 2 Windows systems</b>
-  <b> - 2 Linux systems</b>
-  <b> - 1 Firewall</b>
+- <b>2 Windows OS systems</b>
+- <b>2 Windows servers</b>
+- <b>2 Linux OS systems</b>
+- <b>1 Firewall</b>
